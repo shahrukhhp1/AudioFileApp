@@ -1,0 +1,78 @@
+c:\users\hamza\documents\visual studio 2012\Projects\AudioFileApp\AudioFileApp\bin\Debug\AudioFileApp.exe.config
+c:\users\hamza\documents\visual studio 2012\Projects\AudioFileApp\AudioFileApp\bin\Debug\AudioFileApp.exe
+c:\users\hamza\documents\visual studio 2012\Projects\AudioFileApp\AudioFileApp\bin\Debug\AudioFileApp.pdb
+c:\users\hamza\documents\visual studio 2012\Projects\AudioFileApp\AudioFileApp\bin\Debug\policy.2.0.taglib-sharp.dll
+c:\users\hamza\documents\visual studio 2012\Projects\AudioFileApp\AudioFileApp\bin\Debug\taglib-sharp.dll
+c:\users\hamza\documents\visual studio 2012\Projects\AudioFileApp\AudioFileApp\bin\Debug\policy.2.0.taglib-sharp.config
+c:\users\hamza\documents\visual studio 2012\Projects\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.csprojResolveAssemblyReference.cache
+c:\users\hamza\documents\visual studio 2012\Projects\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.Form1.resources
+c:\users\hamza\documents\visual studio 2012\Projects\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.Properties.Resources.resources
+c:\users\hamza\documents\visual studio 2012\Projects\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.csproj.GenerateResource.Cache
+c:\users\hamza\documents\visual studio 2012\Projects\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.exe
+c:\users\hamza\documents\visual studio 2012\Projects\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.pdb
+C:\Users\JUST DIGITAL\Documents\Visual Studio 2012\Projects\AudioFileApp\AudioFileApp\bin\Debug\AudioFileApp.exe.config
+C:\Users\JUST DIGITAL\Documents\Visual Studio 2012\Projects\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.exe
+C:\Users\JUST DIGITAL\Documents\Visual Studio 2012\Projects\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.pdb
+C:\Users\hamza\Documents\Visual Studio 2012\Projects\AudioFileApp2\AudioFileApp\AudioFileApp\bin\Debug\AudioFileApp.exe.config
+C:\Users\hamza\Documents\Visual Studio 2012\Projects\AudioFileApp2\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.exe
+C:\Users\hamza\Documents\Visual Studio 2012\Projects\AudioFileApp2\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.pdb
+C:\Users\hamza\Documents\Visual Studio 2012\Projects\AudioFileApp2\AudioFileApp\AudioFileApp\bin\Debug\AudioFileApp.exe
+C:\Users\hamza\Documents\Visual Studio 2012\Projects\AudioFileApp2\AudioFileApp\AudioFileApp\bin\Debug\AudioFileApp.pdb
+C:\Users\hamza\Documents\Visual Studio 2012\Projects\AudioFileApp2\AudioFileApp\AudioFileApp\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\hamza\Documents\Visual Studio 2012\Projects\AudioFileApp2\AudioFileApp\AudioFileApp\bin\Debug\taglib-sharp.dll
+C:\Users\hamza\Documents\Visual Studio 2012\Projects\AudioFileApp2\AudioFileApp\AudioFileApp\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\hamza\Documents\Visual Studio 2012\Projects\AudioFileApp2\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.Form1.resources
+C:\Users\hamza\Documents\Visual Studio 2012\Projects\AudioFileApp2\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.Properties.Resources.resources
+C:\Users\hamza\Documents\Visual Studio 2012\Projects\AudioFileApp2\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.csproj.GenerateResource.Cache
+C:\Users\hamza\Documents\Visual Studio 2012\Projects\AudioFileApp2\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.csprojResolveAssemblyReference.cache
+D:\sha\Projects\AudioFileApp\AudioFileApp\bin\Debug\AudioFileApp.exe.config
+D:\sha\Projects\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.exe
+D:\sha\Projects\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.pdb
+D:\sha\Projects\AudioFileApp\AudioFileApp\bin\Debug\AudioFileApp.exe
+D:\sha\Projects\AudioFileApp\AudioFileApp\bin\Debug\AudioFileApp.pdb
+D:\sha\Projects\AudioFileApp\AudioFileApp\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\sha\Projects\AudioFileApp\AudioFileApp\bin\Debug\taglib-sharp.dll
+D:\sha\Projects\AudioFileApp\AudioFileApp\bin\Debug\policy.2.0.taglib-sharp.config
+D:\sha\Projects\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.csprojResolveAssemblyReference.cache
+D:\sha\Projects\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.Form1.resources
+D:\sha\Projects\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.Properties.Resources.resources
+D:\sha\Projects\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.csproj.GenerateResource.Cache
+D:\work\Freelance 2\AudioFileApp\AudioFileApp\bin\Debug\AudioFileApp.exe.config
+D:\work\Freelance 2\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.exe
+D:\work\Freelance 2\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.pdb
+D:\work\Freelance 2\AudioFileApp\AudioFileApp\bin\Debug\AudioFileApp.exe
+D:\work\Freelance 2\AudioFileApp\AudioFileApp\bin\Debug\AudioFileApp.pdb
+D:\work\Freelance 2\AudioFileApp\AudioFileApp\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\work\Freelance 2\AudioFileApp\AudioFileApp\bin\Debug\taglib-sharp.dll
+D:\work\Freelance 2\AudioFileApp\AudioFileApp\bin\Debug\policy.2.0.taglib-sharp.config
+D:\work\Freelance 2\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.Form1.resources
+D:\work\Freelance 2\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.Properties.Resources.resources
+D:\work\Freelance 2\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.csproj.GenerateResource.Cache
+D:\Work\freelance\AudioFileApp\AudioFileApp\bin\Debug\AudioFileApp.exe.config
+D:\Work\freelance\AudioFileApp\AudioFileApp\bin\Debug\AudioFileApp.exe
+D:\Work\freelance\AudioFileApp\AudioFileApp\bin\Debug\AudioFileApp.pdb
+D:\Work\freelance\AudioFileApp\AudioFileApp\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\Work\freelance\AudioFileApp\AudioFileApp\bin\Debug\taglib-sharp.dll
+D:\Work\freelance\AudioFileApp\AudioFileApp\bin\Debug\policy.2.0.taglib-sharp.config
+D:\Work\freelance\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.csprojAssemblyReference.cache
+D:\Work\freelance\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.Form1.resources
+D:\Work\freelance\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.Properties.Resources.resources
+D:\Work\freelance\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.csproj.GenerateResource.cache
+D:\Work\freelance\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.csproj.CoreCompileInputs.cache
+D:\Work\freelance\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.csproj.CopyComplete
+D:\Work\freelance\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.exe
+D:\Work\freelance\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.pdb
+D:\Work\freelance\Projects\AudioFileApp\AudioFileApp\bin\Debug\AudioFileApp.exe.config
+D:\Work\freelance\Projects\AudioFileApp\AudioFileApp\bin\Debug\AudioFileApp.exe
+D:\Work\freelance\Projects\AudioFileApp\AudioFileApp\bin\Debug\AudioFileApp.pdb
+D:\Work\freelance\Projects\AudioFileApp\AudioFileApp\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\Work\freelance\Projects\AudioFileApp\AudioFileApp\bin\Debug\taglib-sharp.dll
+D:\Work\freelance\Projects\AudioFileApp\AudioFileApp\bin\Debug\policy.2.0.taglib-sharp.config
+D:\Work\freelance\Projects\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.csprojAssemblyReference.cache
+D:\Work\freelance\Projects\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.Form1.resources
+D:\Work\freelance\Projects\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.Properties.Resources.resources
+D:\Work\freelance\Projects\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.csproj.GenerateResource.cache
+D:\Work\freelance\Projects\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.csproj.CoreCompileInputs.cache
+D:\Work\freelance\Projects\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.csproj.CopyComplete
+D:\Work\freelance\Projects\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.exe
+D:\Work\freelance\Projects\AudioFileApp\AudioFileApp\obj\Debug\AudioFileApp.pdb
