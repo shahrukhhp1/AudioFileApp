@@ -55,6 +55,16 @@ namespace AudioFileApp
             int albNo = 1;
             timer1.Enabled = true;
             bool isError = false;
+            int skipStart = 0;
+
+            if (textBox4.Text != "0")
+            {
+                int.TryParse(textBox4.Text,out skipStart);
+                if (skipStart > 999) {
+                    skipStart = skipStart / multiple;
+                    albNo = skipStart;
+                }
+            }
 
             outputLocation = outConfig.Text;
             outputArtFolder = outArt.Text + "//";
@@ -115,14 +125,27 @@ namespace AudioFileApp
                     if (System.IO.File.Exists(trackLocation))
                     {
                         totalLoad += 50;
-                        this.EntryOutput("Filling cache with previous track records");
-                        FillCacheWithOldEntries(albums, albumMusicCount, albumTrackNames, trackLocation);
+                        if (skipStart == 0)
+                        {
+                            this.EntryOutput("Filling cache with previous track records");
+                            FillCacheWithOldEntries(albums, albumMusicCount, albumTrackNames, trackLocation);
+                        }
+                        else {
+                            this.EntryOutput("Starting number is provided, no previous track loaded.");
+                        }
                         currentLoad += 50;
                     }
                     if (System.IO.File.Exists(albumLocation))
                     {
                         totalLoad += 50;
-                        this.EntryOutput("Filling cache with previous album records");
+                        if (skipStart == 0)
+                        {
+                            this.EntryOutput("Filling cache with previous album records");
+                        }
+                        else {
+                            this.EntryOutput("No previous album loaded.");
+                        }
+                        
                         //FillCacheWithOldEntries(albums, albumMusicCount, albumTrackNames, albumLocation);
                         currentLoad += 50;
                     }
@@ -192,10 +215,10 @@ namespace AudioFileApp
                     
                     var values = line.Split(',');
                     int track_num = Convert.ToInt32(values[1]);
-                    string track_name = values[3];
+                    string track_name = values[2];
                     var album_num = track_num / multiple;
                     int songCount = track_num % multiple;
-                    string album_name = values[5];
+                    string album_name = values[4];
                     if (albums.ContainsValue(album_name))
                     {
                         albumMusicCount[album_num] += 1;
@@ -222,7 +245,7 @@ namespace AudioFileApp
                         if (x > 0)
                         {
                             var values = line.Split(',');
-                            values[7] = "0";
+                            values[6] = "0";
                             var nLine = String.Join(",", values);
                             writer.WriteLine(nLine);
                         }
@@ -610,7 +633,7 @@ namespace AudioFileApp
             string loc = outputLocation;
             if (isTrack)//(art == 0)
             {
-                string newLine = string.Format("{0},{1},{2},{3},{4},{5},{6},{7},{8}", art.ToString(), track.ToString(), numOfTracks, title, artist, album, genre, isNew, Environment.NewLine);
+                string newLine = string.Format("{0},{1},{2},{3},{4},{5},{6},{7}", art.ToString(), track.ToString(), title, artist, album, genre, isNew, Environment.NewLine);
                 csv.Append(newLine);
 
                 loc += trackfile;
@@ -622,7 +645,7 @@ namespace AudioFileApp
                 }
                 else
                 {
-                    System.IO.File.WriteAllText(loc, "Art,Track,Number of Tracks,Title,Artist,Album,Genre,New \n".Replace("\n", Environment.NewLine));
+                    System.IO.File.WriteAllText(loc, "Art,Track,Title,Artist,Album,Genre,New \n".Replace("\n", Environment.NewLine));
                     System.IO.File.AppendAllText(loc, csv.ToString());
                 }
                 Form1 f = new Form1();
@@ -630,7 +653,7 @@ namespace AudioFileApp
             }
             else
             {
-                string newLine = string.Format("{0},{1},{2},{3},{4},{5},{6},{7},{8}", track.ToString(), track.ToString(), numOfTracks.ToString(), title, artist, album, genre,isNew, Environment.NewLine);
+                string newLine = string.Format("{0},{1},{2},{3},{4},{5},{6},{7}", track.ToString(), track.ToString(), title, artist, album, genre,isNew, Environment.NewLine);
                 csv.Append(newLine);
 
                 loc += "//album_list.csv";
@@ -641,7 +664,7 @@ namespace AudioFileApp
                 }
                 else
                 {
-                    System.IO.File.WriteAllText(loc, "Id,Track,Number of Tracks,Title,Artist,Album Name,Genre,New \n".Replace("\n", Environment.NewLine));
+                    System.IO.File.WriteAllText(loc, "Id,Track,Title,Artist,Album Name,Genre,New \n".Replace("\n", Environment.NewLine));
                     System.IO.File.AppendAllText(loc, csv.ToString());
                 }
             }
